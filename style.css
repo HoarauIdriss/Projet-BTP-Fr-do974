@@ -1,0 +1,12 @@
+#container1{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+footer{
+    width: 100%;
+    height: 140px;
+    background-color: brown;
+
+}
